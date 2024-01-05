@@ -2,7 +2,7 @@ package app;
 
 public class Convertor {
     public static void main(String[] args) {
-        double miles = 10;
+        double miles = 15;
         convertMilesToKilometers(miles);
     }
 
