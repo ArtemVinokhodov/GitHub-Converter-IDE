@@ -2,7 +2,7 @@ package app;
 
 public class Convertor {
     public static void main(String[] args) {
-        double kilometers = 20;
+        double kilometers = 30;
         convertKilometersToMiles(kilometers);
     }
 
